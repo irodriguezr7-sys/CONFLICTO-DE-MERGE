@@ -1,1 +1,1 @@
-document.getElementById("titulo").textContent = "Texto cambiado por RAMA 2";
+document.getElementById("titulo").textContent = "Texto combinado de RAMA 1 y RAMA 2";
