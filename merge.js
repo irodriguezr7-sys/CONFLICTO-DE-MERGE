@@ -1,1 +1,1 @@
-document.getElementById("titulo").textContent = "Texto original";
+document.getElementById("titulo").textContent = "Texto cambiado por RAMA 1";
